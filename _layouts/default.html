@@ -6,6 +6,9 @@
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
 
   <link rel="icon" href="favicon.ico" sizes="any">
 
@@ -13,8 +16,9 @@
   <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
-<body class="{% if page.body-style %}{{ page.body-style }}{% else %}p-3{% endif %}">
-  <main class="{% if page.main-style %}{{ page.main-style }}{% else %}container-md markdown-body{% endif %}">
+<body class="color-bg-blue-2 pb-7" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark_dimmed">
+  <img src="/assets/img/sunflower-piano.jpg" alt="piano painted with sunflowers sitting in a field of sunflowers" class="width-fit mb-3">
+  <main class="{% if page.main-style %}{{ page.main-style }}{% else %}container-md markdown-body p-responsive{% endif %}">
     {{ content }}
   </main>
   <script src="assets/js/main.js"></script>
