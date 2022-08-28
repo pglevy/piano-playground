@@ -1,5 +1,11 @@
 /* Add CSS rules to override Primer */
 
-.color-bg-blue-2 {
+body {
     background-color: #f5faff;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--color-canvas-default);
+    }
 }
