@@ -12,10 +12,11 @@ body {
     body {
         background-color: var(--color-canvas-default);
     }
-
     .hero-border {
         border-bottom: .25rem solid #0d3868;
     }
-    
+    img {
+        mix-blend-mode: color-dodge;
+    }
 }
 
