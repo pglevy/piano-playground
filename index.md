@@ -43,7 +43,7 @@ Here’s how a typical session will go:
 - Adios, Piano! Till next time! What to listen and practice at home
 {: .f3}
 
-Have questions? <a href="mailto:sophiamlevy@gmail.com">Contact Sophia</a>
+Have questions? <a href="mailto:sophiamlevy@gmail.com?subject=I%20want%20to%20know%20more%20about%20Piano%20Playground!">Contact Sophia</a>
 {: .f3 .border-top .pt-3 .text-center}
 
 Ready to get started?
