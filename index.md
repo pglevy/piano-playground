@@ -84,13 +84,13 @@ Times & venues tbd
 {: .h3-mktg .border-0 .mb-0}
 
 - Piano Adventures series by Faber
-- Miss Sophia’s Piano Playground hand-outs
+- Ms. Sophia’s Piano Playground hand-outs
 {: .f3}
 
 ## Where do we get the books and other materials?
 {: .h3-mktg .border-0 .mb-0}
 
-We will have the books, headphones, and binder ready for purchase on your first day of class!
+We will have the books, headphones, and binders ready for purchase on your first day of class!
 {: .f3}
 
 ## What will classes be like?
@@ -99,7 +99,7 @@ We will have the books, headphones, and binder ready for purchase on your first 
 Here’s how a typical session will go:
 {: .f3}
 
-- Hello, Piano! Warm up, review
+- Hello, Piano! (Warm up, review)
 - Skill & Concept: Theory, technique, notation reading and writing
 - Piano Playground 
   - Exploring music elements: rhythm, bass, melody, harmony & the flair through Active Listening for Ear Training and Song Connection (break it down, mix it up and turn it into a piano piece)
