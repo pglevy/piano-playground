@@ -99,14 +99,14 @@ We will have the books, headphones, and binders ready for purchase on your first
 Here’s how a typical session will go:
 {: .f3}
 
-- Hello, Piano! (Warm up, review)
-- Skill & Concept: Theory, technique, notation reading and writing
-- Piano Playground 
+- **Hello, Piano!** Warm up, review
+- **Skill & Concept:** Theory, technique, notation reading and writing
+- **Music Playground:** 
   - Exploring music elements: rhythm, bass, melody, harmony & the flair through Active Listening for Ear Training and Song Connection (break it down, mix it up and turn it into a piano piece)
   - Experimenting with songwriting, improvising and arranging
-- Solo Session: Individual practice with Ms. Sophia (headphones use)
-- Jam Session: With friends/instruments/backing tracks
-- Adios, Piano! Till next time! What to listen and practice at home
+- **Solo Session:** Individual practice with Ms. Sophia (headphones use)
+- **Jam Session:** Play with friends/instruments/backing tracks
+- **Adios, Piano! Till next time!** What to listen and practice at home
 {: .f3}
 
 ## Who is Sophia?
