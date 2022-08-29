@@ -2,24 +2,82 @@
 title: Home
 ---
 
-# Piano Playground with Miss Sophia Levy
+# Piano Playground with Ms. Sophia Levy
 {: .h1-mktg .border-0 .mb-0}
 
-Achieve freedom in piano playing and develop a lifelong passion in your musical journey and become creative and musical music makers.
+Achieve freedom in piano playing, become creative music makers, and develop a lifelong passion in your musical journey
 <a href="https://allthatandjazz.com/welcome" class="btn-mktg btn-large-mktg d-block mx-auto mt-3">Register at All That & Jazz</a>
 {: .Subhead-description .f2 .border-0 .pb-4}
 
-Piano Playground is about experiencing the joy of learning to play the piano by understanding how music works through exploring the foundation of music elements, playing your favorite songs, singing, applying theory, technique, and overall holistic and practical approach to music making.
+Experience the joy of learning to play the piano by understanding how music works through exploring the foundation of music elements, ear training, theory and practical approach to music making.
 {: .f2}
 
-## What age groups?
+## What is Piano Playground?
 {: .h3-mktg .border-0 .mb-0}
 
-- 5-6
-- 7-9
-- 10-12
+It’s a group piano program designed for beginners of all ages with the aim to lay strong music foundations for building holistic musical minds.
+{: .f3}
+
+## What will we learn?
+{: .h3-mktg .border-0 .mb-0}
+
+- Developing piano playing skills 
+- Developing listening skills
+- Learning music theory & technique
+- Exploring the foundations of music elements 
+- Listening to songs actively
+- Learning to train your ear to ultimately play songs by ear
+- Playing your favorite songs
+- Playing in an ensemble
+- Singing
+- Composing
+- Enjoying the music making process with your friends!
+{: .f3}
+
+## How many students per class and what ages?
+{: .h3-mktg .border-0 .mb-0}
+
+Each class can have up to 8 students.
+{: .f3}
+
+These are the age groups:
+{: .f3}
+
+- 5–6
+- 7–9
+- 10–12
 - 13+
 - Adults
+{: .f3}
+
+## What are the dates and times?
+{: .h3-mktg .border-0 .mb-0}
+
+- The program runs from September 6, 2022 to May 31, 2023.
+- Classes are on Tuesdays, Wednesdays, and Thursdays.
+- Each session is 45 minutes.
+{: .f3}
+
+Click the register button for specific schedule information.
+{: .f3}
+
+## How much is it?
+{: .h3-mktg .border-0 .mb-0}
+
+$89/month (for a four-week month)
+{: .f3}
+
+## Are there any performance opportunities?
+{: .h3-mktg .border-0 .mb-0}
+
+Yes! There will be 2 concerts hosted by All That & Jazz:
+{: .f3}
+
+- Holiday Music Show: sometime in December 2022 (tbd)
+- Summer Sound Music Showcase: Sunday June 4, 2023
+{: .f3}
+
+Times & venues tbd
 {: .f3}
 
 ## What books do we use?
@@ -27,6 +85,12 @@ Piano Playground is about experiencing the joy of learning to play the piano by 
 
 - Piano Adventures series by Faber
 - Miss Sophia’s Piano Playground hand-outs
+{: .f3}
+
+## Where do we get the books and other materials?
+{: .h3-mktg .border-0 .mb-0}
+
+We will have the books, headphones, and binder ready for purchase on your first day of class!
 {: .f3}
 
 ## What will classes be like?
@@ -60,11 +124,11 @@ I’ve written and recorded dozens of songs for cable and network television in 
 After establishing Sophia Music Studio in 2011, I have taught piano and voice to hundreds of students in Northern Virginia and engaged them in a wide variety of performance and recording experiences, including cafes, clubs, restaurants, senior homes, festivals, pop-rock band workshops, competitions, and fundraisers.
 {: .f3}
 
-In addition to music, I love yoga, meditation, cooking, dancing, gardening, entrepreneurship, and overall health and wellness.
+In addition to music, I love cooking, dancing, entrepreneurship, and overall health and wellness.
 {: .f3}
 
 Have questions? <a href="mailto:sophiamlevy@gmail.com?subject=I%20want%20to%20know%20more%20about%20Piano%20Playground!">Contact Sophia</a>
-{: .f3 .border-top .pt-3 .text-center}
+{: .f2 .border-top .pt-3 .text-center .text-bold}
 
 Ready to get started?
 {: .f2 .text-center .text-bold}
