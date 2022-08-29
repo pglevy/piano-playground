@@ -1,14 +1,11 @@
 <!doctype html>
-<html lang="{{site.lang}}" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark_dimmed">
+<html lang="{{ site.lang }}" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark_dimmed">
 
 <head>
   <meta charset="utf-8">
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
 
   <link rel="icon" href="favicon.ico" sizes="any">
 
@@ -17,8 +14,10 @@
 </head>
 
 <body class="pb-7">
-  <img src="{{ site.baseurl }}/assets/img/sunflower-piano.jpg" alt="piano painted with sunflowers sitting in a field of sunflowers" class="width-fit mb-3">
-  <main class="{% if page.main-style %}{{ page.main-style }}{% else %}container-md markdown-body p-responsive{% endif %}">
+    <img src="{{ site.baseurl }}/assets/img/sunflower-piano.jpg"
+      alt="piano painted with sunflowers sitting in a field of sunflowers" class="width-fit hero-border mb-3">
+  <main
+    class="{% if page.main-style %}{{ page.main-style }}{% else %}container-md markdown-body p-responsive{% endif %}">
     {{ content }}
   </main>
   <script src="assets/js/main.js"></script>

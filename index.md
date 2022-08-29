@@ -6,7 +6,7 @@ title: Home
 {: .h1-mktg .border-0 .mb-0}
 
 Achieve freedom in piano playing and develop a lifelong passion in your musical journey and become creative and musical music makers.
-<a href="https://github.com/lowcodelounge/plain-vanilla-gh-pages" class="btn-mktg btn-large-mktg d-block mx-auto mt-3">Sign up today</a>
+<a href="https://allthatandjazz.com/welcome" class="btn-mktg btn-large-mktg d-block mx-auto mt-3">Register at All That & Jazz</a>
 {: .Subhead-description .f2 .border-0 .pb-4}
 
 Piano Playground is about experiencing the joy of learning to play the piano by understanding how music works through exploring the foundation of music elements, playing your favorite songs, singing, applying theory, technique, and overall holistic and practical approach to music making.
@@ -49,10 +49,8 @@ Have questions? <a href="mailto:sophiamlevy@gmail.com">Contact Sophia</a>
 Ready to get started?
 {: .f2 .text-center .text-bold}
 
-<a href="https://github.com/lowcodelounge/plain-vanilla-gh-pages" class="btn-mktg btn-large-mktg d-block mx-auto mt-3">Sign up today</a>
+<a href="https://allthatandjazz.com/welcome" class="btn-mktg btn-large-mktg d-block mx-auto mt-3">Register at All That & Jazz</a>
 
 
-
-<!--
-Photo by <a href="https://unsplash.com/@priscillag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Priscilla Gyamfi</a> on <a href="https://unsplash.com/s/photos/piano-outdoors?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
--->
+Photo by <a href="https://unsplash.com/@priscillag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Priscilla Gyamfi</a> on <a href="https://unsplash.com/s/photos/piano-outdoors?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>
+{: .text-center}
