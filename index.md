@@ -15,7 +15,7 @@ Experience the joy of learning to play the piano by understanding how music work
 ## What is Piano Playground?
 {: .h3-mktg .border-0 .mb-0}
 
-It’s a group piano program designed for beginners of all ages with the aim to lay strong music foundations for building holistic musical minds.
+It's a group piano program designed for beginners of all ages with the aim to lay strong music foundations for building holistic musical minds.
 {: .f3}
 
 ## What will we learn?
